@@ -1,0 +1,49 @@
+nowTime: 2020-05-08 10:00:34
+epoch = 1  loss = 1019.8512124989414
+lr = 2.5e-05
+
+nowTime: 2020-05-08 10:01:31
+epoch = 2  loss = 163.13168971777608
+lr = 5e-05
+
+nowTime: 2020-05-08 10:02:28
+epoch = 3  loss = 34.69120695532822
+lr = 7.500000000000001e-05
+
+nowTime: 2020-05-08 10:03:24
+epoch = 4  loss = 13.786482999641398
+lr = 0.0001
+
+nowTime: 2020-05-08 10:04:20
+epoch = 5  loss = 8.905390943615094
+lr = 0.0001
+
+nowTime: 2020-05-08 10:05:16
+epoch = 6  loss = 7.4309043212311705
+lr = 0.0001
+
+nowTime: 2020-05-08 10:06:12
+epoch = 7  loss = 6.799653391850996
+lr = 0.0001
+
+nowTime: 2020-05-08 10:07:07
+epoch = 8  loss = 6.267426839688929
+lr = 0.0001
+
+nowTime: 2020-05-08 10:08:03
+epoch = 9  loss = 5.723215134163213
+lr = 0.0001
+
+nowTime: 2020-05-08 10:08:58
+epoch = 10  loss = 5.185487659319953
+lr = 0.0001
+
+Overall Accuracy is: 49.34
+number : 45.17 yes/no : 63.28 other : 39.78 
+
+Overall Accuracy is: 49.02
+number : 45.17 yes/no : 61.99 other : 40.10 
+
+Overall Accuracy is: 49.24
+number : 45.17 yes/no : 62.16 other : 40.42 
+
